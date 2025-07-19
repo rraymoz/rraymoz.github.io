@@ -18,7 +18,7 @@ social: false #true # includes social icons at the bottom of the page
 
 announcements:
   enabled: false #true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
@@ -27,7 +27,9 @@ latest_posts:
   limit: 5 # leave blank to include all the blog posts
 ---
 
-Here, we'll dive into a deep literary analysis of some texts and upload any posts that are interesting.
+Here, we'll dive into a deep literary analysis of some texts and upload any posts that are interesting. It is somewhat ironic to have the title of my blog be Veritas as this means truth in Latin. What I really will be talking about is 
+
+The expectation for these posts are generally my thought process as I read through 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
