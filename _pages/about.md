@@ -27,9 +27,9 @@ latest_posts:
   limit: 5 # leave blank to include all the blog posts
 ---
 
-Here, we'll dive into a deep literary analysis of some texts and upload any posts that are interesting. It is somewhat ironic to have the title of my blog be Veritas as this means truth in Latin. What I really will be talking about is 
+Here, we'll dive into a deep literary analysis of some texts and upload any posts that are interesting. It is somewhat ironic to have the title of my blog be Veritas as this means truth in Latin. What I really will be talking about is my perceived truths. I encourage feedback and discussions as to what you, the reader, thinks. 
 
-The expectation for these posts are generally my thought process as I read through 
+The expectation for these posts are generally my thought process as I read through texts starting with the Bible. I won't include the actual text in my posts, but I recommend reading along for full context. I will be reading the [NIV translation](https://www.bible.com/), which can be easily found for free online. 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
