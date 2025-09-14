@@ -27,9 +27,17 @@ latest_posts:
   limit: 5 # leave blank to include all the blog posts
 ---
 
-Here, we'll dive into a deep literary analysis of some texts and upload any posts that are interesting. It is somewhat ironic to have the title of my blog be Veritas as this means truth in Latin. What I really will be talking about is my perceived truths. I encourage feedback and discussions as to what you, the reader, thinks. 
+### Preface
 
-The expectation for these posts are generally my thought process as I read through texts starting with the Bible. I won't include the actual text in my posts, but I recommend reading along for full context. I will be reading the [NIV translation](https://www.bible.com/), which can be easily found for free online. 
+Welcome to my blog. Here, I’ll be diving into a deep literary analysis of various texts, sharing my thoughts and insights along the way. While the title of my blog, Veritas, meaning "truth" in Latin, may suggest an exploration of absolute truths, what I’m really presenting are my own perceived truths. I encourage you, the reader, to engage with these ideas and share your own thoughts through feedback and discussion.
+
+The posts you’ll find here will generally reflect my thought process as I read through texts, starting with the Bible. While I won’t be including the full text in each post, I highly recommend reading along for full context. For these posts, I’ll be using the [NIV translation](https://www.bible.com/), which is readily available online for free.
+
+In a time when the world feels uncertain and divided, I believe it’s more important than ever to have a well-grounded set of beliefs and to be well-read. Please note that these posts are personal reflections, my opinions, not definitive statements of fact.
+
+I’d also like to take a moment to thank the many members of my family and community (names will remain private to respect their privacy) for their unending encouragement and support during difficult times.
+
+Finally, since my analysis will often stem from biblical texts, I encourage you to approach each post with an open mind, free from bias, to foster a deeper and more meaningful discussion.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
