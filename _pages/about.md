@@ -33,7 +33,7 @@ Welcome to my blog. Here, I’ll be diving into a deep literary analysis of vari
 
 The posts you’ll find here will generally reflect my thought process as I read through texts, starting with the Bible. While I won’t be including the full text in each post, I highly recommend reading along for full context. For these posts, I’ll be using the [NIV translation](https://www.bible.com/), which is readily available online for free.
 
-In a time when the world feels uncertain and divided, I believe it’s more important than ever to have a well-grounded set of beliefs and to be well-read. Please note that these posts are personal reflections, my opinions, not definitive statements of fact.
+In a time when the world feels uncertain and divided, I believe it’s more important than ever to have a well-grounded set of beliefs and to be well-read. Please note that these posts are personal reflections and my opinions, not definitive statements of fact. There are many debatable arguments that likely can be brought up in my posts, I admit that I am not an expert in these texts, nor do I claim my perspectives are correct. 
 
 I’d also like to take a moment to thank the many members of my family and community (names will remain private to respect their privacy) for their unending encouragement and support during difficult times.
 
